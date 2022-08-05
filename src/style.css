@@ -5,5 +5,3 @@
 section {
   @apply my-4 border-b border-red-500 pb-4;
 }
-
-<div class="w-3/4 border-b border-red-500"></div>
